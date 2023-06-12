@@ -38,7 +38,7 @@
     <button class="btn btn-lg btn-primary btn-block" type="submit">Войти</button>
     <p></p>
     <p>Нет аккаунта? <a href="http://localhost:8080/signUp">Создать аккаунт</a></p>
-    <p class="mt-5 mb-3 text-muted">&copy; 2022</p>
+    <p class="mt-5 mb-3 text-muted">&copy; 2023</p>
 </form><script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.bundle.min.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179173139-1"></script>
