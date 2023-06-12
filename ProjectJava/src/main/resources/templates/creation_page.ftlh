@@ -36,7 +36,7 @@
     <label for="inputTitle" class="sr-only">Post</label>
     <input name="post" class="form-control" placeholder="Сообщение">
 
-    <button class="btn btn-lg btn-primary btn-block" type="submit">#ShoutItOut!</button>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">post</button>
     <p class="mt-5 mb-3 text-muted">&copy; 2023</p>
 </form><script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.bundle.min.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -9,7 +9,7 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors, Alexey Golyagin">
     <meta name="docsearch:language" content="ru">
     <meta name="docsearch:version" content="5.0">
-    <title>#ShoutItOut!</title>
+    <title>Confessions</title>
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
     <link rel="stylesheet" href="https://bootstrap5.ru/css/docs.css">
@@ -58,7 +58,7 @@
 
     <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
         <div class="col-md-6 px-0">
-            <h1 class="display-4 font-italic"><a href="http://localhost:8080/create">#ShoutItOut!</a></h1>
+            <h1 class="display-4 font-italic"><a href="http://localhost:8080/create">Confessions</a></h1>
             <p class="lead my-3">"Если я такой плохой - найдите лучше и уймитесь... Я никого возле себя не держу... Пусть я лучше буду искренне плохой, чем вы лицемерно такие святые..."</p>
         </div>
     </div>
