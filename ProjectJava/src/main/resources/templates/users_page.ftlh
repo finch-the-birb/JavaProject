@@ -58,8 +58,8 @@
 
     <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
         <div class="col-md-6 px-0">
-            <h1 class="display-4 font-italic"><a href="http://localhost:8080/create">Confessions</a></h1>
-            <p class="lead my-3">"Если я такой плохой - найдите лучше и уймитесь... Я никого возле себя не держу... Пусть я лучше буду искренне плохой, чем вы лицемерно такие святые..."</p>
+            <h1 class="display-4 font-italic"><a href="http://localhost:8081/create">Confessions</a></h1>
+            <p class="lead my-3">"Анонимность — это увеличительное стекло как для плохого, так и для хорошего, ведь в то время, как анонимно сделанное зло более гнусно, анонимно сделанное добро более прекрасно."</p>
         </div>
     </div>
 </div>
